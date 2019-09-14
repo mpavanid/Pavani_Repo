@@ -1,3 +1,4 @@
 first file
-g
+this is branch file
+this is not master 
 My job
